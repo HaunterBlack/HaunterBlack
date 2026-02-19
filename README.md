@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to work with 
 
 💻 Technologies & Tools
 
-Languages: JavaScript, TypeScript, HTML, CSS, Python
+Languages: JavaScript, TypeScript, HTML5, CSS,
 
-Frameworks: React, Express, Next.js, Node.js
+Frameworks: React, Express, Node.js
 
 Databases: MongoDB, MySQL, PostgreSQL
 
-Tools: Git, Docker, Webpack, Vercel, Heroku, Netlify
+Tools: Git, Docker, Webpack, Heroku, Netlify
 
 Other: REST APIs, GraphQL, Firebase
 
